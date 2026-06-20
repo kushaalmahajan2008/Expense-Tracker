@@ -15,3 +15,4 @@ tag_table="""CREATE TABLE IF NOT EXISTS TAGS
 with sqlite3.Connection("expense.db") as conn:
     conn.execute(expense_table)
     conn.execute(tag_table)
+print("Database Initialized")
