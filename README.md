@@ -21,7 +21,7 @@ Plotly
 
 ##Installation
 1. Clone the repo
-   git clone https://github.com/kushaalmahajan2008/Expense-Tracker
+   '''git clone https://github.com/kushaalmahajan2008/Expense-Tracker'''
 2. Install Requirements
    a. streamlit
    b. pandas
@@ -29,7 +29,7 @@ Plotly
 3. Database Initalization
    run init_db.py
 4. Run streamlit command in terminal
-   streamlit run expenses.py
+   '''streamlit run expenses.py'''
 
 ## Screenshots
 
