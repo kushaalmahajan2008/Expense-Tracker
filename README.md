@@ -35,13 +35,13 @@ Plotly
 
 ### Expense Entry
 
-![Expense Entry](screenshots/expense_tracker_screenshot.png)
+![Expense Entry](screenshots/Expense_tracker_screenshot.png)
 
 ### Expense Records
 
-![Expense Records](screenshots/expense_data_screenshot.png)
+![Expense Records](screenshots/Expense_data_screenshot.png)
 
 ### Visualizations
 
-![Visualizations](screenshots/expense_visualisation_screenshot.png)
+![Visualizations](screenshots/Expense_visualisation_screenshot.png)
 
