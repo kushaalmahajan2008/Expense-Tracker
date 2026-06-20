@@ -22,11 +22,7 @@ def track_expense(date,amount,category,tag,description):
         conn.execute(record_data,data)
         conn.commit()
 
-tag="""CREATE TABLE IF NOT EXISTS TAGS
-    (Tags Text NOT NULL)"""
 
-with sqlite3.Connection("expense.db",timeout=10) as conn:
-        conn.execute(tag)
 
 
 st.title("Expense Tracker")
